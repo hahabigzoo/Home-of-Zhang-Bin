@@ -2,7 +2,7 @@
 draft: true
 editable: false
 title: Terms
-summary: 1. sdassad
+summary: ""
 header:
   caption: ""
   image: ""
