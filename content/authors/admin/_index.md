@@ -18,7 +18,7 @@ education:
     - course: "BSc in Computer Science "
       institution: Jilin University
       year: 2012
-email: big_zoo@163.com & zhangbin2020@zju.edu.cn
+email: big_zoo@163.com
 superuser: true
 highlight_name: true
 ---
