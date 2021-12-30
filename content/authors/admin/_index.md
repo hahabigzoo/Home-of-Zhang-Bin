@@ -24,4 +24,4 @@ highlight_name: true
 ---
 ZhangBin is a master of computer science at the Zhejiang University. His research interests includemalicious traffic detection and anomaly detection. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/浙江大学_张斌_18363358537.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/浙江大学_张斌_18363358537.pdf" "newtab" >}}resumé{{< /staticref >}}.
