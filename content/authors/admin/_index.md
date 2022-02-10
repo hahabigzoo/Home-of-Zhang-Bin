@@ -17,7 +17,7 @@ education:
       year: 2023
     - course: "BSc in Computer Science "
       institution: Jilin University
-      year: 2019
+      year: 2020
 email: big_zoo@163.com
 superuser: true
 highlight_name: true
